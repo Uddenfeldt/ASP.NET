@@ -1,0 +1,11 @@
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\bin\Debug\netcoreapp1.1\BandProject.deps.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\bin\Debug\netcoreapp1.1\BandProject.runtimeconfig.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\bin\Debug\netcoreapp1.1\BandProject.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\bin\Debug\netcoreapp1.1\BandProject.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\obj\Debug\netcoreapp1.1\BandProject.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\obj\Debug\netcoreapp1.1\BandProject.AssemblyInfo.cs
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\bin\Debug\netcoreapp1.1\BandProject.pdb
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\obj\Debug\netcoreapp1.1\BandProject.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BandProject\BandProject\obj\Debug\netcoreapp1.1\BandProject.pdb
