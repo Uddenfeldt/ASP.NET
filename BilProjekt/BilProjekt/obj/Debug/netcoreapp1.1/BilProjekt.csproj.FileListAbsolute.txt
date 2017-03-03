@@ -1,0 +1,11 @@
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\bin\Debug\netcoreapp1.1\BilProjekt.deps.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\bin\Debug\netcoreapp1.1\BilProjekt.runtimeconfig.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\bin\Debug\netcoreapp1.1\BilProjekt.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\bin\Debug\netcoreapp1.1\BilProjekt.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\obj\Debug\netcoreapp1.1\BilProjekt.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\obj\Debug\netcoreapp1.1\BilProjekt.AssemblyInfo.cs
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\bin\Debug\netcoreapp1.1\BilProjekt.pdb
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\obj\Debug\netcoreapp1.1\BilProjekt.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\BilProjekt\BilProjekt\obj\Debug\netcoreapp1.1\BilProjekt.pdb

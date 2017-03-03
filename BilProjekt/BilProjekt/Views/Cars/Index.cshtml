@@ -1,0 +1,14 @@
+﻿@model CarsIndexVM[]
+<ul>
+    @foreach (var car in Model)
+    {
+        if (car.ShowAsFast == true)
+        {
+            <li>@car.Brand - its a wild hurricane</li>
+        }
+        else
+        {
+            <li>@car.Brand</li>
+        }
+    }
+</ul>

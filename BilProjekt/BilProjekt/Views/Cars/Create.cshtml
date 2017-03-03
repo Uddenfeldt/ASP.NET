@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Create</title>
+</head>
+<body>
+    <h1>Create Cars</h1>
+    <form action="/cars/create" asp-controller="cars">
+        <label asp-for="Name"></label>
+        <br />
+        <input asp-for="Brand" />
+        <span asp-validation-for="Brand"></span>
+        <br />
+        <input asp-for="Doors" />
+        <span asp-validation for="Doors"></span>
+        <label asp-for="TopSpeed"></label>
+        <br />
+        <input asp-for="TopSpeed" />
+        <span asp-validation-for="TopSpeed"></span>
+        <input type="submit" value="Create Car" />
+    </form>
+</body>
+</html>

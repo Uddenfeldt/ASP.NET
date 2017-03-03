@@ -1,0 +1,11 @@
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp1.1\CustomerApplication.deps.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp1.1\CustomerApplication.runtimeconfig.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp1.1\CustomerApplication.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp1.1\CustomerApplication.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp1.1\CustomerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp1.1\CustomerApplication.AssemblyInfo.cs
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\bin\Debug\netcoreapp1.1\CustomerApplication.pdb
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp1.1\CustomerApplication.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\CustomerApplication\CustomerApplication\obj\Debug\netcoreapp1.1\CustomerApplication.pdb

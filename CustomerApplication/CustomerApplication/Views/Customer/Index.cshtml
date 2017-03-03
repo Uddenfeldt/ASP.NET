@@ -1,0 +1,17 @@
+﻿@using CustomerApplication.Models
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The customer list</title>
+</head>
+<body>
+    <h1>Welcome to the customer Webbpage</h1>
+    <ul>
+        @foreach (Customer customer in ViewBag.customers)
+        {
+        <li>@customer.Id, @customer.Address, @customer.CompanyName, @customer.EmployeeCount</li>
+        }
+    </ul>
+    <a href="../customer/create"><h2>Create</h2></a>
+</body>
+</html>

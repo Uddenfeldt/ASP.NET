@@ -1,0 +1,11 @@
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\bin\Debug\netcoreapp1.1\NortWind.deps.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\bin\Debug\netcoreapp1.1\NortWind.runtimeconfig.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\bin\Debug\netcoreapp1.1\NortWind.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\bin\Debug\netcoreapp1.1\NortWind.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\obj\Debug\netcoreapp1.1\NortWind.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\obj\Debug\netcoreapp1.1\NortWind.AssemblyInfo.cs
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\bin\Debug\netcoreapp1.1\NortWind.pdb
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\obj\Debug\netcoreapp1.1\NortWind.dll
+C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\NortWind\NortWind\obj\Debug\netcoreapp1.1\NortWind.pdb

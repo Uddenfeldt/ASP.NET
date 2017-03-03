@@ -1,8 +1,0 @@
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\bin\Debug\netcoreapp1.1\HomeTime.deps.json
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\bin\Debug\netcoreapp1.1\HomeTime.runtimeconfig.json
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\bin\Debug\netcoreapp1.1\HomeTime.runtimeconfig.dev.json
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\bin\Debug\netcoreapp1.1\HomeTime.dll
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\obj\Debug\netcoreapp1.1\HomeTime.csprojResolveAssemblyReference.cache
-C:\Users\Marc\Desktop\Marc\VS grejjer\.NET core\HomeTime\HomeTime\obj\Debug\netcoreapp1.1\HomeTime.AssemblyInfo.cs

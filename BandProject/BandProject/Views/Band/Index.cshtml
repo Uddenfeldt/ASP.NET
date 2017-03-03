@@ -1,19 +1,13 @@
 ﻿@using BandProject.Models
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome to our favourite bands</title>
-</head>
-<body>
-    <h1>Welcome</h1>
-    <ul>
-        @foreach (Band band in ViewBag.bands)
-        {
-            <li>@band.Id,@band.Name, @band.Description</li>
-        }
-    </ul>
-    <a href="../band/detail/1"><h2> Rolling Stones </h2></a>
-    <a href="../band/detail/2"><h2> N.W.A </h2></a>
-    <a href="../band/detail/3"><h2> Wham </h2></a>
-</body>
-</html>
+@{
+    Layout = "_Layout";
+    ViewBag.title = "Bands";
+}
+
+<h3>Welcome</h3>
+<ul>
+    @foreach (Band band in ViewBag.bands)
+    {
+        <li>@Html.Partial("BandBox")</li>
+    }
+</ul>
